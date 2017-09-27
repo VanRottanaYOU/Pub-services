@@ -1,0 +1,51 @@
+[
+    {
+        "name": "Arawak",
+        "owner": {
+            "firstName": "Nicolas",
+            "lastName": "Hodicq",
+            "mail": "nhodicq@bewizyu.com"
+        },
+        "openDays": [
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday"
+        ],
+        "openHours": {
+            "start": 10,
+            "end": 1
+        },
+        "beers": [
+            {
+                "type": "Blonde",
+                "name": "Triple Karmeliet"
+            }
+        ]
+    },
+    {
+        "name": "La fin du monde",
+        "owner": {
+            "firstName": "Van-Rottana",
+            "lastName": "YOU",
+            "mail": "vr.you@hotmail.fr"
+        },
+        "openDays": [
+            "Wednesday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+        ],
+        "openHours": {
+            "start": 10,
+            "end": 1
+        },
+        "beers": [
+            {
+                "type": "Brune",
+                "name": "Kreig"
+            }
+        ]
+    }
+]
