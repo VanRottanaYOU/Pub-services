@@ -1,10 +1,11 @@
 var pubService = require('./services/pubs-services');
 
-pubService.listerAll();
-pubService.listerAllOuverts();
+console.log(pubService.listerAll());
+console.log(pubService.listerAllOuverts());
 
 module.exports = {
     services: {
-    pubService : pubService
+        pubService: pubService
     }
-    }
+}
+
